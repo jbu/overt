@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<squidgeSetup>
+  <display type="plain" ID="gmp:average">
+    <tag>Your Marks</tag>
+    <name>gmp:average</name>
+    <tooltip>Average marks for you in the online assessment</tooltip>
+  </display>
+  <display type="plain" view="false" ID="gmp:monthAgoAverage">
+    <tag>Old Marks</tag>
+    <name>gmp:monthAgoAverage</name>
+    <tooltip>Average marks for you in the online assessment one month ago</tooltip>
+  </display>
+  <display type="plain" ID="gmp:cohort">
+    <tag>Your Year</tag>
+    <name>gmp:cohort</name>
+    <tooltip>Average marks for your year in the online assessment</tooltip>
+  </display>
+  <display type="plain" ID="gmp:curriculum">
+    <tag>Staff Expectation</tag>
+    <name>gmp:curriculum</name>
+    <tooltip>How the faculty thinks you should be doing</tooltip>
+  </display>
+  <display type="comparison">
+    <baseData>gmp:average</baseData>
+    <compareWith>gmp:cohort</compareWith>
+    <name>gmp:averageVsCohort</name>
+    <tag>You v Year</tag>
+    <tooltip>How you're going compared to your year</tooltip>
+  </display>
+  <display type="comparison">
+    <baseData>gmp:average</baseData>
+    <compareWith>gmp:curriculum</compareWith>
+    <name>gmp:averageVsCurriculum</name>
+    <tag>You v Expected</tag>
+    <tooltip>How you're going compared to faculty expectations</tooltip>
+  </display>
+  <display type="comparison" adjustable="false">
+    <baseData>gmp:average</baseData>
+    <compareWith>gmp:monthAgoAverage</compareWith>
+    <name>gmp:averageVsMonthAgo</name>
+    <tag>You v One Month Ago</tag>
+    <tooltip>How you're going compared to how you were going one month ago</tooltip>
+  </display>
+</squidgeSetup>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<squidgeSetup>
+  <display type="plain" ID="gmp:average">
+    <tag>What you would like</tag>
+    <name>gmp:average</name>
+    <tooltip>What we think you would like</tooltip>
+  </display>
+</squidgeSetup>

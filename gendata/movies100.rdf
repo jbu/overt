@@ -1,0 +1,1006 @@
+<?xml version="1.0"?>
+
+<rdf:rdf
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/metadata/dublin_core/"
+  xmlns:gmp="http://www.gmp.usyd.edu.au/schema/resources/">
+
+  <rdf:Description about="http://www.imdb.com/Title?0015716">
+    <dc:Title>Crook Buster</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017324"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016943"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016873"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016807"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017267"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017125"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0017125">
+    <dc:Title>Martin of the Mounted</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0015716"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016943"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0028356"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0065375"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056063"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056172"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0016873">
+    <dc:Title>Fire Barrier, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017324"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0015716"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016943"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016807"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017267"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017794"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0016943">
+    <dc:Title>Gunless Bad Man, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017324"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0015716"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016873"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016807"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017267"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017125"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0017324">
+    <dc:Title>Ridin&apos; for Love</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0046250"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0015716"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016943"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016873"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016807"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017267"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0016807">
+    <dc:Title>Don&apos;t Shoot</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017324"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0015716"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016943"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016873"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017267"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017062"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0017267">
+    <dc:Title>Pinnacle Rider, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017324"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0015716"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016943"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016873"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016807"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017794"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0017062">
+    <dc:Title>Lazy Lightning</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016807"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0028356"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0063034"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060164"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0047985"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0032373"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0017794">
+    <dc:Title>Daze of the West</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0016873"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017267"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056172"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056085"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0032252"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0065375"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0021978">
+    <dc:Title>House Divided, A</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049513"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0035959"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0035980"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0082900"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0054047"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039416"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0028356">
+    <dc:Title>These Three</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.820000" gmp:reliability="0.375930"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0044486"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0028773"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0054743"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0090947"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017125"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017062"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0028773">
+    <dc:Title>Dead End</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.740000" gmp:reliability="0.477151"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0028356"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072574"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056187"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056085"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0080907"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0080907"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0030162">
+    <dc:Title>Fugitives for a Night</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067277"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0070511"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0030410"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031530"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033246"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0035959"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0030410">
+    <dc:Title>Man to Remember, A</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067277"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0070511"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031547"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0062977"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0030162"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031955"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0031547">
+    <dc:Title>Lady and the Mob, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0030410"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0054743"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0034958"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038109"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0068503"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039591"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0031530">
+    <dc:Title>Kid From Kokomo, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067277"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0030162"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0035959"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0043885"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0034958"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0062977"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0031314">
+    <dc:Title>Five Came Back</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.720000" gmp:reliability="0.332029"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031955"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051201"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033253"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0032373"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0047279"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048973"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0031955">
+    <dc:Title>Sorority House</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067277"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0030410"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031314"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0032373"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0032252"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0034958"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0031685">
+    <dc:Title>Murder Will Out</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048283"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033987"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0077521"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0120756"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067647"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060164"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0032252">
+    <dc:Title>Bill of Divorcement, A</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031955"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0065375"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056063"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017794"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0052148"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033987"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0033246">
+    <dc:Title>We Who Are Young</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0030162"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056063"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049474"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0090947"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0086251"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0078346"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0033253">
+    <dc:Title>Westerner, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.750000" gmp:reliability="0.417250"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049233"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0078346"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0075756"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0052148"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031314"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0134596"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0032373">
+    <dc:Title>Curtain Call</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031955"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0077521"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031314"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0080907"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017062"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039973"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0033987">
+    <dc:Title>Out of the Fog</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.780000" gmp:reliability="0.244367"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0036983"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0032252"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031685"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0065375"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0052148"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056187"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0034958">
+    <dc:Title>Lady Bodyguard</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031955"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031530"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031547"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0047279"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039111"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039591"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0035980">
+    <dc:Title>Heavenly Body, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.660000" gmp:reliability="0.253234"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0054743"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0074924"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0035959"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0054047"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0021978"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0078346"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0035959">
+    <dc:Title>Guy Named Joe, A</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.740000" gmp:reliability="0.410219"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0030162"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031530"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0021978"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038499"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067647"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0035980"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0036983">
+    <dc:Title>Keys of the Kingdom, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.750000" gmp:reliability="0.332029"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051411"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0036748"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0047279"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049474"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033987"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039973"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0036748">
+    <dc:Title>Days of Glory</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.470000" gmp:reliability="0.300064"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051411"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0041996"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0045162"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0036983"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038213"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038109"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0038109">
+    <dc:Title>Spellbound</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.760000" gmp:reliability="0.658002"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0036748"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038213"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0145785"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031547"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060164"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039694"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0038213">
+    <dc:Title>Valley of Decision, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.760000" gmp:reliability="0.343157"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051411"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0036748"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038499"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038109"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039111"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039694"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0038499">
+    <dc:Title>Duel in the Sun</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.670000" gmp:reliability="0.492048"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038213"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0145785"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0077521"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049474"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0035959"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0043885"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0039111">
+    <dc:Title>Yearling, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.750000" gmp:reliability="0.447833"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038213"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0145785"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0086251"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0080139"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0034958"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0120915"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0039416">
+    <dc:Title>Gentleman&apos;s Agreement</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.720000" gmp:reliability="0.492860"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049233"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0062977"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0090947"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039694"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0021978"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0082900"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0039973">
+    <dc:Title>Web, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.760000" gmp:reliability="0.282551"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0036983"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0063034"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072574"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0054047"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0068503"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0032373"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0039591">
+    <dc:Title>Macomber Affair, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.760000" gmp:reliability="0.253234"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051028"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0080139"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0034958"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0081573"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0080139"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031547"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0039694">
+    <dc:Title>Paradine Case, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.620000" gmp:reliability="0.482661"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038213"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0062977"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0063034"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039416"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038109"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0080907"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0041996">
+    <dc:Title>Twelve O&apos;Clock High</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.790000" gmp:reliability="0.582280"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0052617"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0042531"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0043455"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0045162"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051433"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0036748"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0042531">
+    <dc:Title>Gunfighter, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.710000" gmp:reliability="0.508569"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0052617"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0041996"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0043455"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0045162"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051433"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0145785"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0043885">
+    <dc:Title>Only the Valiant</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.650000" gmp:reliability="0.223917"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031530"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038499"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067647"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0063034"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0054047"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060522"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0043455">
+    <dc:Title>David and Bathsheba</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.610000" gmp:reliability="0.328032"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0052617"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0041996"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0042531"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0045162"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049513"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051433"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0045162">
+    <dc:Title>Snows of Kilimanjaro, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.650000" gmp:reliability="0.418935"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0052617"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0041996"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0042531"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0043455"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051028"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0036748"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0044486">
+    <dc:Title>Carrie</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.700000" gmp:reliability="0.332029"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0046250"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0028356"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0054743"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0071824"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0073891"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072951"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0046250">
+    <dc:Title>Roman Holiday</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.800000" gmp:reliability="0.764539"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0052617"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056903"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067277"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017324"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0044486"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051411"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0047279">
+    <dc:Title>Night People</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.630000" gmp:reliability="0.253234"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0036983"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0034958"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048973"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0134596"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031314"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056059"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0131328">
+    <dc:Title>Boum sur Paris</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049233"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0074924"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060522"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056187"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060164"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072574"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0048283">
+    <dc:Title>Land of the Pharaohs</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.650000" gmp:reliability="0.469308"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051433"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0065375"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056059"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056172"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031685"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0063034"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0048118">
+    <dc:Title>Girl Rush, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056903"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0071824"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0073891"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072951"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072869"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0073777"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0047985">
+    <dc:Title>Desperate Hours, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.760000" gmp:reliability="0.499891"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049233"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017062"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0075756"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0120756"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0080907"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056085"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0048973">
+    <dc:Title>Baby Doll</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.700000" gmp:reliability="0.484433"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0168590"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051201"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0052148"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0047279"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0086251"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031314"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0049233">
+    <dc:Title>Friendly Persuasion</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.790000" gmp:reliability="0.532001"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051411"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033253"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0047985"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039416"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0080139"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0131328"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0049513">
+    <dc:Title>Moby Dick</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.740000" gmp:reliability="0.569771"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0043455"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060164"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0021978"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0080139"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0086251"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0120756"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0049474">
+    <dc:Title>Man in the Gray Flannel Suit, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.710000" gmp:reliability="0.479021"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0036983"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0077521"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038499"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056063"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033246"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0081573"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0051201">
+    <dc:Title>Witness for the Prosecution</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.830000" gmp:reliability="0.670908"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051028"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031314"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0134596"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0074924"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048973"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067647"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0051028">
+    <dc:Title>Sun Also Rises, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.580000" gmp:reliability="0.449084"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0045162"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051201"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056063"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067822"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039591"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0052148"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0051411">
+    <dc:Title>Big Country, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.770000" gmp:reliability="0.572028"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0046250"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049233"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0168590"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0036748"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0036983"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038213"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0052148">
+    <dc:Title>Roots of Heaven, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.490000" gmp:reliability="0.294555"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051028"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056172"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0032252"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033987"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048973"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033253"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0051433">
+    <dc:Title>Bravados, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.660000" gmp:reliability="0.380902"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0052617"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0041996"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0042531"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0043455"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060848"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048283"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0052617">
+    <dc:Title>Beloved Infidel</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.570000" gmp:reliability="0.261391"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0046250"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0041996"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0042531"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0043455"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0045162"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051433"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0054047">
+    <dc:Title>Magnificent Seven, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.770000" gmp:reliability="0.765268"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0070511"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0043885"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039973"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0035980"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0120915"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0021978"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0054743">
+    <dc:Title>Children&apos;s Hour, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.810000" gmp:reliability="0.499133"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0044486"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0028356"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060522"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031547"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0090947"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0035980"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0056172">
+    <dc:Title>Lawrence of Arabia</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.860000" gmp:reliability="0.885996"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048283"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017125"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0065375"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056063"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017794"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0052148"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0056059">
+    <dc:Title>Hatari!</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.730000" gmp:reliability="0.558950"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048283"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0168590"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0080139"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0047279"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067822"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067623"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0056187">
+    <dc:Title>Lisa</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.610000" gmp:reliability="0.223917"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060848"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033987"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060164"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0074924"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0131328"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0028773"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0056085">
+    <dc:Title>How the West Was Won</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.710000" gmp:reliability="0.586238"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0168590"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017794"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060522"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060522"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0047985"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0028773"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0056063">
+    <dc:Title>Hemingway&apos;s Adventures of a Young Man</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.300064"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051028"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017125"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056172"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049474"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033246"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0032252"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0056903">
+    <dc:Title>Captain Newman, M.D.</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.630000" gmp:reliability="0.375930"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0046250"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048118"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0071824"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0073891"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072951"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072869"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0060848">
+    <dc:Title>Poppies Are Also Flowers</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.630000" gmp:reliability="0.198306"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051433"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056187"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067647"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067623"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0068503"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0134596"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0060522">
+    <dc:Title>How to Steal a Million</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.770000" gmp:reliability="0.584278"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0054743"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056085"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0043885"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0131328"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056085"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0086251"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0060164">
+    <dc:Title>Bibbia, La</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.550000" gmp:reliability="0.418935"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049513"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056187"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017062"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031685"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0131328"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038109"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0062977">
+    <dc:Title>Fixer, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.790000" gmp:reliability="0.349954"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0070511"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0030410"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031530"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039694"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0090947"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039416"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0063034">
+    <dc:Title>Great Catherine</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.180000" gmp:reliability="0.223917"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048283"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039973"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017062"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0043885"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067623"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039694"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0065375">
+    <dc:Title>Adventures of Gerard, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048283"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017125"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056172"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0032252"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0017794"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033987"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0067623">
+    <dc:Title>Proposal, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060848"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0063034"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0068503"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056059"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0067277">
+    <dc:Title>Johnny Got His Gun</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.750000" gmp:reliability="0.559372"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0046250"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0070511"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0030410"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0030162"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031955"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031530"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0067647">
+    <dc:Title>Racconti di Canterbury, I</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.600000" gmp:reliability="0.439990"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060848"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0120915"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0035959"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0043885"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031685"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051201"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0134596">
+    <dc:Title>Crescete e moltiplicatevi</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060848"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051201"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0075756"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0047279"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0090947"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033253"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0067822">
+    <dc:Title>Tam Lin</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.600000" gmp:reliability="0.182596"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051028"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0068503"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0075756"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0120756"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0082900"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056059"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0068503">
+    <dc:Title>Dr. Phibes Rises Again</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.620000" gmp:reliability="0.474280"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072869"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060848"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031547"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067822"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039973"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067623"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0070511">
+    <dc:Title>Papillon</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.760000" gmp:reliability="0.773986"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067277"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0054047"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0062977"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0080907"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0030410"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0030162"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0071824">
+    <dc:Title>McQ</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.570000" gmp:reliability="0.478090"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056903"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0044486"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048118"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0073891"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072951"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072869"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0073777">
+    <dc:Title>Switch</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.760000" gmp:reliability="0.211914"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048118"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072574"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0077521"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0082900"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0074924"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0075756"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0072869">
+    <dc:Title>Devil&apos;s Rain, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.350000" gmp:reliability="0.417250"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056903"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048118"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0071824"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0073891"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072951"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0068503"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0072951">
+    <dc:Title>Escape to Witch Mountain</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.600000" gmp:reliability="0.542462"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056903"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0044486"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048118"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0071824"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0073891"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072869"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0073891">
+    <dc:Title>Whiffs</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.340000" gmp:reliability="0.211914"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056903"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0044486"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048118"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0071824"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072951"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072869"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0072574">
+    <dc:Title>&quot;Switch&quot;</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0073777"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0120756"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0028773"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039973"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0120915"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0131328"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0074924">
+    <dc:Title>Moving Violation</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0073777"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051201"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056187"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0131328"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0035980"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0081573"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0075756">
+    <dc:Title>Birch Interval</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0073777"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0134596"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033253"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0120915"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067822"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0047985"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0077521">
+    <dc:Title>Evening in Byzantium</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0073777"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038499"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049474"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0032373"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031685"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0168590"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0078346">
+    <dc:Title>Superman</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.680000" gmp:reliability="0.840705"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0145785"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0081573"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033253"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033246"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0035980"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0120756"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0080139">
+    <dc:Title>Winter Kills</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.650000" gmp:reliability="0.418935"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049233"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049513"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039591"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039111"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056059"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039591"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0080907">
+    <dc:Title>Hunter, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.580000" gmp:reliability="0.432959"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0070511"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0032373"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039694"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0047985"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0028773"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0028773"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0081573">
+    <dc:Title>Superman II</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.630000" gmp:reliability="0.788709"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0145785"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0078346"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049474"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0082900"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0074924"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039591"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0082900">
+    <dc:Title>Peter and Paul</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.800000" gmp:reliability="0.315005"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0073777"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0081573"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0021978"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0086251"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067822"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039416"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0086251">
+    <dc:Title>Scarlet and the Black, The</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.820000" gmp:reliability="0.400688"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049513"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039111"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033246"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048973"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0060522"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0082900"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0090947">
+    <dc:Title>Directed by William Wyler</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.950000" gmp:reliability="0.261391"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0028356"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0054743"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0062977"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0033246"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039416"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0134596"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0120915">
+    <dc:Title>Star Wars: Episode I - The Phantom Menace</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.770000" gmp:reliability="1.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0168590"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067647"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0075756"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0054047"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039111"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072574"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0145785">
+    <dc:Title>Frederic Remington: The Truth of Other Days</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0042531"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0081573"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0078346"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038109"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0039111"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0038499"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0168590">
+    <dc:Title>Clark Gable: Tall, Dark and Handsome</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.500000" gmp:reliability="0.000000"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0051411"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056085"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0120915"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0048973"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0077521"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0056059"/>
+  </rdf:Description>
+  <rdf:Description about="http://www.imdb.com/Title?0120756">
+    <dc:Title>Moby Dick</dc:Title>
+    <gmp:results rdf:parseType="Resource" gmp:dataset="gmp:average" gmp:mark="0.680000" gmp:reliability="0.512646"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0049513"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0031685"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0072574"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0067822"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0078346"/>
+    <gmp:peer rdf:resource="http://www.imdb.com/Title?0047985"/>
+  </rdf:Description>
+</rdf:rdf>
